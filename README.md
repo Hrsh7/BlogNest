@@ -1,21 +1,22 @@
-"# BlogVerse" 
+"# BlogNest"
+
 Home Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/62f60414-e1f5-4730-8a93-f408ddb1a77b)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/a9a2297a-217f-4cc1-96c7-a914f7ef30d9)
 
 Register Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/b77c9f6a-988f-46bd-977b-40f1bdec7948)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/08274b42-5e6e-4a40-8b0a-d39f5104c2f4)
 
 Login Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/e0227b11-cf64-458a-8809-7bb642ed4a52)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/660501d2-1945-415b-a698-05253c7a5e15)
 
 MyUser Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/24c5680e-0534-4f6e-96b7-67d69387c806)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/2645bf54-3712-4259-a231-5935b4e5c30f)
 
 Post Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/dcf7659b-4b37-4e9f-9ca4-a6f5678fc59d)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/d34fcf84-1b59-43f7-a0ae-d4b9683cd13c)
 
 EditPost Page
-![image](https://github.com/Hrsh7/BlogVerse/assets/97751598/9b88cd6c-9ebf-4c99-bc80-795473815c1d)
+![image](https://github.com/Hrsh7/BlogNest/assets/97751598/39941dc3-5639-4ed3-bd6d-6976998c5f53)
 
 CreatePost Page
 ![image](https://github.com/Hrsh7/BlogNest/assets/97751598/40c6eb5c-b647-4c09-90c8-3bac2e02baf7)
